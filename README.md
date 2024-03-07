@@ -1,7 +1,8 @@
+[![Build Status](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_apis/build/status%2Fde-kevin.pipelines-java?branchName=main)](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
