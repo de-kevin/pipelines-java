@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_apis/build/status%2Fde-kevin.pipelines-java?branchName=main)](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_apis/build/status%2Fde-kevin.pipelines-java?branchName=main)](https://dev.azure.com/kevinhuangfrogjump/DevOpsDemo/_apis/build/status%2Fde-kevin.pipelines-java?branchName=main)
 
 # Contributing
 
